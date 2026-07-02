@@ -1,0 +1,10 @@
+title: Ръководство — Хижа Септември
+description: Наръчник за администриране на сайта на Хижа Септември
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+color_scheme: light
+heading_anchors: true
+aux_links:
+  "septemvrihut.bg": "https://septemvrihut.bg"
